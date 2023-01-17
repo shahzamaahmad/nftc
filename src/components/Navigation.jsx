@@ -1,5 +1,5 @@
 import React from 'react'
-
+import center from './images/center.jpeg';
 const Navigation = () => {
   return (
     <div>
@@ -17,6 +17,10 @@ const Navigation = () => {
           <li><a href="#">Public Grivancas</a></li>
           <li><a href="#">Contact Us</a></li>
         </ul>
+        
+        <div><img width={2000} height={700} src={center} alt="" /></div>
+        {/* <h1>hello</h1> */}
+
       </div>
     </div>
   )

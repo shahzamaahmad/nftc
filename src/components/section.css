@@ -1,0 +1,127 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 2px;
+    
+  }
+ 
+
+
+  
+  
+ /* <Col xs={5} className="column">
+ <Col xs={4 }>
+ <Card style={{ width: '18rem' }}>
+      <Card.Img style={{ width: '300px' , height: '300px' }}  src={modi} />
+ <Card.Body>
+   <Card.Title>Shri Narendar Modi</Card.Title>
+   <Card.Text>
+   Hon'ble Prime Minister
+   </Card.Text>
+
+
+ </Card.Body>
+</Card>
+</Col>
+<Col xs={4 }>
+   <Card style={{ width: '18rem' }}>
+ <Card.Img style={{ width: '300px' , height: '300px' }} src={kishan} />
+ <Card.Body>
+ <Card.Title>Shri G. Kishan Reddy</Card.Title>
+   <Card.Text>
+   Minister Of Tourism
+   </Card.Text>
+   
+
+
+ </Card.Body>
+</Card>
+</Col>
+<Col xs={4 }>
+   <Card style={{ width: '18rem' }}>
+ <Card.Img style={{ width: '300px' , height: '300px' }} variant="top" src={naik}  />
+ <Card.Body>
+ <Card.Title> Shri Shripad Yesso Naik</Card.Title>
+   <Card.Text>
+   Minister of State tourism
+   </Card.Text>
+ </Card.Body>
+  </Card>
+  </Col>
+</Col>
+
+
+
+
+
+
+
+
+
+
+<Row className="gallery">
+          
+      <Col xs={6} className="column">
+        
+      <div className='column'><img width={400} height={400} src={first}  /></div>
+      <div className='column'><img width={400} height={400} src={first}  /></div>
+      <div className='column'><img width={400} height={400} src={first}  /></div>
+      <div className='column'><img width={400} height={400} src={first}  /></div>
+      <div className='column'><img width={400} height={400} src={first}  /></div>
+      <div className='column'><img width={400} height={400} src={first}  /></div>
+
+      </Col>
+     
+      <Col xs={2} className="">
+      
+      <Card style={{ width: '18rem' }}>
+           <Card.Img  src={modi} />
+      <Card.Body>
+        <Card.Title>Shri Narendar Modi</Card.Title>
+        <Card.Text>
+        Hon'ble Prime Minister
+        </Card.Text>
+     
+   
+      </Card.Body>
+    </Card>
+    </Col>
+
+    <Col xs={2} className="">
+      
+      <Card style={{ width: '18rem' }}>
+           <Card.Img   src={modi} />
+      <Card.Body>
+        <Card.Title>Shri Narendar Modi</Card.Title>
+        <Card.Text>
+        Hon'ble Prime Minister
+        </Card.Text>
+     
+   
+      </Card.Body>
+    </Card>
+    </Col>
+    <Col xs={2} className="">
+      
+      <Card style={{ width: '18rem' }}>
+           <Card.Img  src={modi} />
+      <Card.Body>
+        <Card.Title>Shri Narendar Modi</Card.Title>
+        <Card.Text>
+        Hon'ble Prime Minister
+        </Card.Text>
+     
+   
+      </Card.Body>
+    </Card>
+    </Col>
+    
+      
+    </Row>
+ 
+
+   */

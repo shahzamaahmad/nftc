@@ -2,7 +2,7 @@ import React from 'react'
 import nftc from './images/nftcc.png';
 import aazadi from './images/aazadi.png'
 import swatch from './images/swatch.png'
-import Navigation from './Navigation';
+
 const Navbar = () => {
   return (
     <>

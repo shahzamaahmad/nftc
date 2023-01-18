@@ -1,4 +1,5 @@
 import React from 'react'
+import Crousal from './Crousal'
 
 const Navigation = () => {
   return (

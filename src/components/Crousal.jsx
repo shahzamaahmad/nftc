@@ -41,9 +41,9 @@ const Crousal = () => {
       <div className='flex flex-row justify-around h-20 border-2 items-center'>
         <div><h1>NEWS</h1>
           <span>& UPDATES</span></div>
-        <div><h2>CLICKED HERE</h2></div>
-        <div><a href="">| Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, velit?</a></div>
-        <div><a href="#">Click Here</a></div>
+        <div className='text-blue-500'><h2>HERE</h2></div>
+        <div className= '  text-red-500 '><a href="">| National Tourism awaeds 2018-2019 on the ocassion of World Torism Day 2022</a></div>
+        <div className= 'text-blue-500'><a href="#">Click Here</a></div>
       </div>
     </>
 
